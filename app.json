@@ -38,7 +38,7 @@
     },
     "CHANNEL_ID": {
       "description": "Enter Channel ID (-100) and make bot admin there",
-      "value": "1002227337760",
+      "value": "-1002227337760",
       "required": true
     },
     "LOG_GROUP": {
